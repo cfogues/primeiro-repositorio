@@ -1,3 +1,19 @@
-    * body { 
-        background-color: #460bb3;
-    }
+* body {
+    background-color: #460bb3;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+#missao {
+    font-size: 20px;
+}
