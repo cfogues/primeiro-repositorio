@@ -2,17 +2,23 @@
     
 }
 
+.titulo-principal {
+    padding-left: 25px;
+    background-color: #fff;
+    color: #fff;
+}
+
 img {
     width: 100%;
  }
 
  .principal{
-    background-color: #b4b3b3;
+    background-color: #ffffff;
     padding: 30px;
  }
 
  
-h1 {
+h2 {
     text-align: center;
 }
 
@@ -29,11 +35,11 @@ em strong {
 }
 
 .beneficios {
-   background: #ffffff;
+   background: 11#ffffff;
    padding: 20px;
 }
 
-h2{
+h3{
     text-align: center;
 }
 
