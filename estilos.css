@@ -1,22 +1,20 @@
-* body {
+body {
     
 }
 
 .titulo-principal {
     padding-left: 25px;
-
 }
 
 img {
     width: 100%;
- }
+}
 
- .principal{
-    background-color: #ffffff;
+.principal {
+    background: #CCCCCC;
     padding: 30px;
- }
+}
 
- 
 h2 {
     text-align: center;
 }
@@ -34,11 +32,11 @@ em strong {
 }
 
 .beneficios {
-   background: 11#ffffff;
-   padding: 20px;
+    background: #FFFFFF;
+    padding: 20px;
 }
 
-h3{
+h3 {
     text-align: center;
 }
 
